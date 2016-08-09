@@ -312,3 +312,7 @@ textarea[contenteditable] {
    Theses examples override the primary ('mobile first') styles.
    Modify as content requires.
    ========================================================================== */
+   
+   #map {
+	height: 400px; }
+   
